@@ -1,0 +1,49 @@
+{
+  "name": "estsit",
+  "version": "1.0.0",
+  "description": "Solidity Documentation Generator forked from @thinkanddev/solidoc",
+  "main": "cli.js",
+  "bin": {
+    "solidoc": "cli.js"
+  },
+  "keywords": [
+    "voluptatem",
+    "reiciendis",
+    "corporis",
+    "eveniet",
+    "consequatur",
+    "qui",
+    "omnis",
+    "rerum",
+    "voluptates",
+    "aut",
+    "odit",
+    "non",
+    "tenetur",
+    "explicabo",
+    "enim",
+    "facilis",
+    "et",
+    "rootstock",
+    "temporibus",
+    "tenetur"
+  ],
+  "author": "EltaSwaniawski",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShayneFranecki/estsit.git"
+  },
+  "dependencies": {
+    "fs-extra": "^7.0.0",
+    "glob": "^7.1.3",
+    "linq": "^3.1.0",
+    "pino": "^5.8.0",
+    "pino-pretty": "^2.2.2",
+    "require-all": "^3.0.0"
+  },
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/ShayneFranecki/estsit.git/issues"
+  }
+}
